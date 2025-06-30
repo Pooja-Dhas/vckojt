@@ -9,4 +9,4 @@ const AboutPage = () => {
         </div>
     )
 }
-export default Header;
+export default AboutPage;

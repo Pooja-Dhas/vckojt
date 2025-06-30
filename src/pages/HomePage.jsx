@@ -1,4 +1,4 @@
-const HomaPage = () => {
+const HomePage = () => {
     return(
         <div>
             <Header/>
